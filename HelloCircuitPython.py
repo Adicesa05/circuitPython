@@ -1,16 +1,13 @@
 import board
 import neopixel
-import sleep
+import time
 
-dot = neopixel.Neopixel(board.NEOPIXEL, 1)
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+
+print("Make it wokr!")
 
 while True:
-    print("Make it red")
-    dot.fill((0, 0, 255))
+    dot.fill((0,255,0))
     time.sleep(.5)
-    print("Make it blue")
-    dot.fill((0, 255, 0))
-    time.sleep(.5)
-    print("Make it green")
-    dot.fill((255, 0 ,0))
+    dot.fill((255,0,0))
     time.sleep(.5)
