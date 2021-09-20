@@ -11,14 +11,24 @@
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+The code turns the LED light on for the board corresponding to the RGB colors (R,G,B) with a .5 second delay between each color.
 
 Here's how you make code look like code:
 
-```python
-Code goes here
+import board
+import neopixel
+import time
 
-```
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+
+print("Make it work!")
+
+while True:
+    dot.fill((0,255,0))
+    time.sleep(.5)
+    dot.fill((255,0,0))
+    time.sleep(.5)
+    dot.fill((0,0,255))
 
 
 ### Evidence
