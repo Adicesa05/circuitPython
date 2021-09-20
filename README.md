@@ -15,21 +15,7 @@ The code turns the LED light on for the board corresponding to the RGB colors (R
 
 Here's how you make code look like code:
 
-import board
-import neopixel
-import time
-
-dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
-
-print("Make it work!")
-
-while True:
-    dot.fill((0,255,0))
-    time.sleep(.5)
-    dot.fill((255,0,0))
-    time.sleep(.5)
-    dot.fill((0,0,255))
-
+[Code](https://github.com/Adicesa05/circuitPython/blob/main/HelloCircuitPython.py)
 
 ### Evidence
 Pictures / Gifs of your work should go here
