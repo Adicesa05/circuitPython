@@ -21,10 +21,10 @@ Here's how you make code look like code:
 ![HelloWorldLED](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/HelloWorldLEDBlink.gif)
 
 ### Images
-
+No wiring needed, metro board came with built in LED.
 
 ### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
+Had trouble with library, after updating the board it fixed the issue.
 
 
 
