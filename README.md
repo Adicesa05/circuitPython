@@ -14,7 +14,17 @@
 The code turns the LED light on for the board corresponding to the RGB colors (R,G,B) with a .5 second delay between each color.
 
 Here's how you make code look like code:
+```
+print("Make it work!")
 
+while True:
+    dot.fill((0,255,0))
+    time.sleep(.5)
+    dot.fill((255,0,0))
+    time.sleep(.5)
+    dot.fill((0,0,255))
+    time.sleep(.5)
+ ```
 [Code](https://github.com/Adicesa05/circuitPython/blob/main/HelloCircuitPython.py)
 
 ### Evidence
