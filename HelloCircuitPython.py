@@ -12,3 +12,4 @@ while True:
     dot.fill((255,0,0))
     time.sleep(.5)
     dot.fill((0,0,255))
+    time.sleep(.5)

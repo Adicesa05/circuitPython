@@ -11,15 +11,11 @@
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+The code turns the LED light on for the board corresponding to the RGB colors (R,G,B) with a .5 second delay between each color.
 
 Here's how you make code look like code:
 
-```python
-Code goes here
-
-```
-
+[Code](https://github.com/Adicesa05/circuitPython/blob/main/HelloCircuitPython.py)
 
 ### Evidence
 Pictures / Gifs of your work should go here
