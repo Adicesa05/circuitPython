@@ -1,11 +1,11 @@
 import time
 import board
-import touchio
-
-touch_pad = board.A0
-touch = touchio.TouchIn(touch_pad)
+import adafruit_hcsr04
+sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D6, echo_pin=board.D5)
 
 while True:
-    if touch.value:
-        print("Touched!")
-    time.sleep(0.05)
+    try:
+        print((sonar.distance,))
+    except RuntimeError:
+        print("Retrying!")
+    time.sleep(0.1)
