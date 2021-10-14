@@ -89,25 +89,6 @@ At fist it did not work because I did not set the angle to not go over 180 and n
 ### Description & Code
 
 ```python
-Code goes here
-
-```
-
-### Evidence
-
-### Images
-
-### Reflection
-
-
-
-
-
-## NextAssignment
-
-### Description & Code
-
-```python
 while True:
     try:
         cm = sonar.distance
