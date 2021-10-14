@@ -72,13 +72,15 @@ while True:
 
 ```
 [Full Code Here](https://github.com/Adicesa05/circuitPython/blob/main/Servo.py)
+
 ### Evidence
 ![Servo](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/ServoTouchCircuit.png)
-### Images
 
+### Images
+![ServoVideo](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/LooserWireServoVideo.gif)
 
 ### Reflection
-
+At fist it did not work because I did not set the angle to not go over 180 and not less that 0. The if command of angle < 180 and angle > 0 fixed the problem.
 
 
 
