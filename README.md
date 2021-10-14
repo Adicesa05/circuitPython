@@ -84,7 +84,7 @@ At fist it did not work because I did not set the angle to not go over 180 and n
 
 
 
-## CircuitPython_LCD
+## Distance_Sensor
 
 ### Description & Code
 
@@ -108,12 +108,38 @@ Code goes here
 ### Description & Code
 
 ```python
-Code goes here
+while True:
+    try:
+        cm = sonar.distance
+        print((cm,))
+        if cm < 5:
+         dot.fill((0, 0, 0))
+        elif cm < 20:
+         redValue = simpleio.map_range(cm, 5, 20, 255, 0)
+         greenValue = 0
+         blueValue = simpleio.map_range(cm, 5, 20, 0, 255)
+         print("RGB: (", redValue, ", ", greenValue, ", ", blueValue, ")")
+         dot.fill((int(redValue), int(greenValue), int(blueValue)))
+        elif cm < 35:
+         redValue = 0
+         greenValue = simpleio.map_range(cm, 20, 35, 0, 255)
+         blueValue = simpleio.map_range(cm, 20, 35, 255, 0)
+         print("RGB: (", redValue, ", ", greenValue, ", ", blueValue, ")")
+         dot.fill((int(redValue), int(greenValue), int (blueValue)))
+        else:
+          dot.fill((0, 0, 0))
+        time.sleep(0.1)
+    except RuntimeError:
+        print("Retrying!")
 
 ```
+[Full Code Here](https://github.com/Adicesa05/circuitPython/blob/main/DistanceSensorLED.py)
 
 ### Evidence
+![DistanceSensorCircuit](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/DistanceSensor.png)
 
 ### Images
+![DistanceSensorGIF](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/DistanceRGB%20Gif.gif)
 
 ### Reflection
+Learning the simpleio mapping tool is essential for this project. Simpleio mappping tool essentially converts the distance produced by the Ultra sonic distance sensor into RGB values for the board to produce cool lights.
