@@ -75,6 +75,7 @@ while True:
 ### Evidence
 
 ### Images
+![Servo](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/ServoTouchCircuit.png)
 
 ### Reflection
 
