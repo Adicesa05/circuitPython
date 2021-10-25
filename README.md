@@ -93,25 +93,25 @@ while True:
     try:
         cm = sonar.distance
         print((cm,))
-        if cm < 5:
+        if cm < 5: //If it's too close, turns off LED
          dot.fill((0, 0, 0))
-        elif cm < 20:
-         redValue = simpleio.map_range(cm, 5, 20, 255, 0)
+        elif cm < 20: //Range 5-14 cm
+         redValue = simpleio.map_range(cm, 5, 20, 255, 0) //Red value of RGB increases the closer it is.
          greenValue = 0
-         blueValue = simpleio.map_range(cm, 5, 20, 0, 255)
+         blueValue = simpleio.map_range(cm, 5, 20, 0, 255) //Blue value of RGB increases the further it is.
          print("RGB: (", redValue, ", ", greenValue, ", ", blueValue, ")")
          dot.fill((int(redValue), int(greenValue), int(blueValue)))
-        elif cm < 35:
+        elif cm < 35: //Range 21-34 cm
          redValue = 0
-         greenValue = simpleio.map_range(cm, 20, 35, 0, 255)
-         blueValue = simpleio.map_range(cm, 20, 35, 255, 0)
+         greenValue = simpleio.map_range(cm, 20, 35, 0, 255) //Green value of RGB increases the further it is.
+         blueValue = simpleio.map_range(cm, 20, 35, 255, 0) //Blue value of RGB increases the closer it is.
          print("RGB: (", redValue, ", ", greenValue, ", ", blueValue, ")")
          dot.fill((int(redValue), int(greenValue), int (blueValue)))
         else:
           dot.fill((0, 0, 0))
         time.sleep(0.1)
     except RuntimeError:
-        print("Retrying!")
+        print("Retrying!")  //Prints an error code when not detecting distance.
 
 ```
 ``
