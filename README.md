@@ -114,6 +114,8 @@ while True:
         print("Retrying!")
 
 ```
+``
+Code made by: [jkrosby51](https://github.com/jkrosby51/CircuitPython/blob/main/DistanceRGB.py)
 [Full Code Here](https://github.com/Adicesa05/circuitPython/blob/main/DistanceSensorLED.py)
 
 ### Evidence
