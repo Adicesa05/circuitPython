@@ -87,7 +87,7 @@ At fist it did not work because I did not set the angle to not go over 180 and n
 ## Distance_Sensor
 
 ### Description & Code
-
+An LED controlled by an ultra sonic sensor, the LED changes color based on the distance the ultra sonic detects.
 ```python
 while True:
     try:
