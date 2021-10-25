@@ -115,9 +115,9 @@ while True:
 
 ```
 ``
-Code made by: [jkrosby51](https://github.com/jkrosby51/CircuitPython/blob/main/DistanceRGB.py)
+Code made by: Johnny Krosby
 ``
-[Full Code Here](https://github.com/Adicesa05/circuitPython/blob/main/DistanceSensorLED.py)
+[Full Code Here](https://github.com/jkrosby51/CircuitPython/blob/main/DistanceRGB.py)
 
 ### Evidence
 ![DistanceSensorCircuit](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/DistanceSensor.png)
