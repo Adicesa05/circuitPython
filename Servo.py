@@ -4,7 +4,7 @@ import pwmio
 import touchio
 import servo
 
-touch_pad1 = board.A3
+touch_pad1 = board.A0
 touch_pad2 = board.A5
 
 touch1 = touchio.TouchIn(touch_pad1)
