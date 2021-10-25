@@ -123,8 +123,8 @@ Code made by: Johnny Krosby
 ![DistanceSensorCircuit](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/DistanceSensor.png)
 
 ### Images
-![DistanceSensorGIF](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/DistanceRGB%20Gif.gif)
-
+![DistanceSensorGIF](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/gabyD-DistanceServo.gif)
+[Gif Credit](https://github.com/gdaless20/Circuitpython#CircuitPython_Distance_Servo}
 ### Reflection
 Learning the simpleio mapping tool is essential for this project. Simpleio mappping tool essentially converts the distance produced by the Ultra sonic distance sensor into RGB values for the board to produce cool lights.
 
