@@ -5,7 +5,7 @@
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [Skateboard](#NextAssignment)
 ---
 
 ## Hello_CircuitPython
@@ -132,11 +132,13 @@ Learning the simpleio mapping tool is essential for this project. Simpleio mappp
 
 # OnShape / CAD
 
-##Skateboard
+## Skateboard
 
 ### Description
 
 A skatebaord consisting of the deck, truck baseplate, truck hanger, bushing, wheels, and bearings.
+
+### Images and steps
 
 
 
