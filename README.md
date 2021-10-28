@@ -140,5 +140,9 @@ A skatebaord consisting of the deck, truck baseplate, truck hanger, bushing, whe
 
 ### Images and steps
 
+Skateboardimagehere
+
+The deck consists of 8 small holes of countersink, through, ASNI, Clearence, size#10, free fit holes.
+
 
 
