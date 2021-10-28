@@ -144,5 +144,7 @@ A skatebaord consisting of the deck, truck baseplate, truck hanger, bushing, whe
 
 The deck consists of 8 small holes of countersink, through, ASNI, Clearence, size#10, free fit holes.
 
+![SkateboardDeckSketch](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/SkateboardSketch.png)
 
+The deck's sketch is made from 2 circles and a rectangle, the circles have to be equal. 
 
