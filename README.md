@@ -179,3 +179,29 @@ The finished product should look similar to this.
 -A shortcut in the assembly is after attaching the baseplate,hanger,bushing together to the deck you can copy all 3 parts and paste it to connect to the other 4 holes under the deck.
 
 -A very great tip that I learnt from my [awesome engineering teacher](https://github.com/Helmstk1) is that holding shift while selecting parts to mate locks the specific part you are mating making you able to move into a better angle to select that part to mate. 
+
+## Lego_Block
+
+### Description
+
+This part teaches you mainly about configurations, the configurations help you create different variations of the same part you are creating without wasting so much time creating 10 similar parts.
+
+### Images and steps
+
+![Lego](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/LEgoblock.png)
+![Variables](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/CoolVariable.png)
+I created a lego block, really really really important to make sure you set your variables as they are ESSENTIAL for configurations.
+
+![Configs](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/Congfi.png)
+The configurations tab is located on the right side of the screen, to create a configurations you have to click on the configurations features and click on the values you want to configurate an example would be sizing, you can assign different values changing the variables you created earlier. You can customize a lot of things with configurations such as size, type, color, name, etc.
+
+![PArtsw](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/parts.png)
+These parts are custom features where it is created by someone else, you can add these custom features by just clicking on the one you want to add.
+[PartName](https://cvilleschools.onshape.com/documents/f4d470584fdeef9603415532/v/0c632933b6aca3d2608fda5d/e/acddbbed81af3772a07adf21)
+[PartColor](https://cvilleschools.onshape.com/documents/d997b0ffc30f659113b10c00/v/347f7240ed6eefd77e80907e/e/a59f52547080e509330b02f7)
+
+### Reflection
+
+A very important thing that I got confused on was the suppressions, the suppressions are there to remove the features that overlaps when it shouldn't be there. A 4x2 block would have a feature that a 1x1 block wouldn't and by suppressing the feature you can exclude it for the parts that shouldn't have them.
+
+Creating variables are extremely important and the sooner you create them in your project the better, variables can help with a lot of things even outside of configurations. Imagine you wanted to change the height of the object or an angle, you can easily change the variable instead of going into the specific part and changing it.
