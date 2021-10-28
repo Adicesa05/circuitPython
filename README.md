@@ -174,8 +174,8 @@ The finished product should look similar to this.
 
 ### Reflection
 
-A problem I ran into is when trying to extrude the circle to make the pipe from the hanger is that I forgot to make the sketch visible costing me a bit of time and confusion. Making a sketch visible can give the option to extrude involving that visible sketch.
+-A problem I ran into is when trying to extrude the circle to make the pipe from the hanger is that I forgot to make the sketch visible costing me a bit of time and confusion. Making a sketch visible can give the option to extrude involving that visible sketch.
 
-A shortcut in the assembly is after attaching the baseplate,hanger,bushing together to the deck you can copy all 3 parts and paste it to connect to the other 4 holes under the deck.
+-A shortcut in the assembly is after attaching the baseplate,hanger,bushing together to the deck you can copy all 3 parts and paste it to connect to the other 4 holes under the deck.
 
-A very great tip that I learnt from my [awesome engineering teacher](https://github.com/Helmstk1) is that holding shift while selecting parts to mate locks the specific part you are mating making you able to move into a better angle to select that part to mate. 
+-A very great tip that I learnt from my [awesome engineering teacher](https://github.com/Helmstk1) is that holding shift while selecting parts to mate locks the specific part you are mating making you able to move into a better angle to select that part to mate. 
