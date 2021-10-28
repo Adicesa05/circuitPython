@@ -151,3 +151,23 @@ The deck's sketch is made from 2 circles and a rectangle, the circles have to be
 ![TruckBasePlate](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/Baseplate.png)
 
 This may look complicated but looking from the side, the sketch is very simple. The sketch consists of a square on top which is where you put the screws in as a base/hat followed by 2 rectangle sketches extruded under in the middle of the base symmetrically. Then cover the baseplate with fillets.
+
+![TruckHanger](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/TruckHanger.png)
+
+The hanger is made from a circle extruded down to the pipe which is made from a circle (not connected) extruded from the sketch of the baseplate. The wing hanging out is just an extruded circle + rectangle. 
+
+![Bushing](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/Bushing.png)
+
+The bushing is super easy, it's just an extruded circle with the hole equal to the truck hanger wing. It resides right on top of the hanger wing.
+
+![Wheel](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/Wheel.png)
+
+The wheel is made from using the revolve tool then extruding a center circle (Pro tip: UseTool) symmetrically.
+
+![Bearing](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/Bearings.png)
+
+The bearing is just two circles extruded equal to the center hole in the wheel.
+
+![Skatebaord](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/Skateboard.png)
+
+The finished product should look similar to this. 
