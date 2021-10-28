@@ -148,3 +148,6 @@ The deck consists of 8 small holes of countersink, through, ASNI, Clearence, siz
 
 The deck's sketch is made from 2 circles and a rectangle, the circles have to be equal. 
 
+![TruckBasePlate](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/Baseplate.png)
+
+This may look complicated but looking from the side, the sketch is very simple. The sketch consists of a square on top which is where you put the screws in as a base/hat followed by 2 rectangle sketches extruded under in the middle of the base symmetrically. Then cover the baseplate with fillets.
