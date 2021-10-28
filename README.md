@@ -84,7 +84,7 @@ At fist it did not work because I did not set the angle to not go over 180 and n
 
 
 
-## Distance_Sensor
+## CircuitPython_LCD
 
 ### Description & Code
 An LED controlled by an ultra sonic sensor, the LED changes color based on the distance the ultra sonic detects.
@@ -126,10 +126,17 @@ Code made by: Johnny Krosby
 ![DistanceSensorGIF](https://github.com/Adicesa05/circuitPython/blob/main/VideosOrPhotos/gabyD-DistanceRGB.gif)
 
 [Gif Credit](https://github.com/gdaless20/Circuitpython#CircuitPython_Distance_Servo)
+
 ### Reflection
 Learning the simpleio mapping tool is essential for this project. Simpleio mappping tool essentially converts the distance produced by the Ultra sonic distance sensor into RGB values for the board to produce cool lights.
 
 # OnShape / CAD
 
+##Skateboard
+
 ### Description
+
+A skatebaord consisting of the deck, truck baseplate, truck hanger, bushing, wheels, and bearings.
+
+
 
