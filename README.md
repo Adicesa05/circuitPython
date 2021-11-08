@@ -5,7 +5,8 @@
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
-* [Skateboard](#NextAssignment)
+* [Skateboard](#Skateboard)
+* [Lego_Brick](#Lego_Brick)
 ---
 
 ## Hello_CircuitPython
@@ -205,3 +206,9 @@ These parts are custom features where it is created by someone else, you can add
 A very important thing that I got confused on was the suppressions, the suppressions are there to remove the features that overlaps when it shouldn't be there. A 4x2 block would have a feature that a 1x1 block wouldn't and by suppressing the feature you can exclude it for the parts that shouldn't have them.
 
 Creating variables are extremely important and the sooner you create them in your project the better, variables can help with a lot of things even outside of configurations. Imagine you wanted to change the height of the object or an angle, you can easily change the variable instead of going into the specific part and changing it.
+
+## Lego_Duck
+
+### Description
+
+Build a lego duck using lego bricks from [Lego_Block](#Lego_Block)
