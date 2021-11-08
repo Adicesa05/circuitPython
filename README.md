@@ -6,7 +6,7 @@
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [Skateboard](#Skateboard)
-* [Lego_Brick](#Lego_Block)
+* [Lego_Block](#Lego_Block)
 ---
 
 ## Hello_CircuitPython
