@@ -211,4 +211,10 @@ Creating variables are extremely important and the sooner you create them in you
 
 ### Description
 
-Build a lego duck using lego bricks from [Lego_Block](#Lego_Block)
+Build a lego duck using lego bricks from [Lego_Block](#Lego_Block) and also create a drawing diagram. This assignment puts the configurations that you've created into use and in this assignment you get to learn how to put the blocks together and how to mate them.
+
+### Images and steps
+
+### Reflection
+
+The most important thing before you start putting the blocks together
