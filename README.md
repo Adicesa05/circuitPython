@@ -217,4 +217,4 @@ Build a lego duck using lego bricks from [Lego_Block](#Lego_Block) and also crea
 
 ### Reflection
 
-The most important thing before you start putting the blocks together
+The most important thing before you start putting the blocks together are your mate connectors, 
