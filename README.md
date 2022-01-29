@@ -214,7 +214,18 @@ Creating variables are extremely important and the sooner you create them in you
 Build a lego duck using lego bricks from [Lego_Block](#Lego_Block) and also create a drawing diagram. This assignment puts the configurations that you've created into use and in this assignment you get to learn how to put the blocks together and how to mate them.
 
 ### Images and steps
+![ducklego](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/ducklego.png)
+The duck is made up of 2 2x2 bricks, 2 3x2 half bricks, 1 4x2 brick, and 1 1x2 brick.
+![guidelego](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/guidelego.png)
+Click "Insert" then from the menu, you can generate the types of bricks that you need for building. This is where the configurations from earlier came in handy, it saves us a lot of time from creating all the individual bricks.
+You then want to fasten mate the blocks together creating the duck.
+
+An example on how configurations can be useful is how many combinations you can mess around with, I made a gigantic 25x25 base brick then filled in specific parts with legos to create a qr code.
+
+![SCANME](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/SCANME.png)
 
 ### Reflection
 
-The most important thing before you start putting the blocks together are your mate connectors, 
+The most important thing before you start putting the blocks together are your mate connectors, make sure they are visible so that when mating you can mate freely on all the lego pillars.
+
+Pro tip: The replicate tool can greatly reduce time on generating duplicate bricks.
