@@ -215,8 +215,11 @@ Build a lego duck using lego bricks from [Lego_Block](#Lego_Block) and also crea
 
 ### Images and steps
 ![ducklego](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/ducklego.png)
+
 The duck is made up of 2 2x2 bricks, 2 3x2 half bricks, 1 4x2 brick, and 1 1x2 brick.
+
 ![guidelego](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/guidelego.png)
+
 Click "Insert" then from the menu, you can generate the types of bricks that you need for building. This is where the configurations from earlier came in handy, it saves us a lot of time from creating all the individual bricks.
 You then want to fasten mate the blocks together creating the duck.
 
