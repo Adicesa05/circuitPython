@@ -197,8 +197,11 @@ I created a lego block, really really really important to make sure you set your
 The configurations tab is located on the right side of the screen, to create a configurations you have to click on the configurations features and click on the values you want to configurate an example would be sizing, you can assign different values changing the variables you created earlier. You can customize a lot of things with configurations such as size, type, color, name, etc.
 
 ![PArtsw](https://github.com/Adicesa05/circuitPython-OnShape/blob/main/VideosOrPhotos/parts.png)
+
 These parts are custom features where it is created by someone else, you can add these custom features by just clicking on the one you want to add.
+
 [PartName](https://cvilleschools.onshape.com/documents/f4d470584fdeef9603415532/v/0c632933b6aca3d2608fda5d/e/acddbbed81af3772a07adf21)
+
 [PartColor](https://cvilleschools.onshape.com/documents/d997b0ffc30f659113b10c00/v/347f7240ed6eefd77e80907e/e/a59f52547080e509330b02f7)
 
 ### Reflection
